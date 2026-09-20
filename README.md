@@ -1,5 +1,10 @@
 # Discover Local Capabilities
 
+
+> [!NOTE]
+> 本仓库已归档，维护中的版本在 [xiangrui-toolkit · skills/Agent能力/discover-local-capabilities](https://github.com/xiangruiai/xiangrui-toolkit/tree/main/skills/Agent能力/discover-local-capabilities)。issues 与 PR 请到工具箱提交。
+
+
 一个只读的 Agent Skill，用于扫描本机已经安装的 Agent Skills、CLI、MCP servers 和 Codex plugins，并生成“场景 → 首选能力”的本机能力地图。
 
 它解决的不是“再安装更多工具”，而是让 Agent 先知道这台电脑已经具备什么能力，再按场景选择路线。
